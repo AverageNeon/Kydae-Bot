@@ -67,7 +67,7 @@ I am a part time developer & a just a chill guy who likes to ride bikes enjoy we
 
 <a href="https://github.com/AverageNeon">
   <img src="https://github-readme-stats.vercel.app/api?username=AverageNeon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AverageNeon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="AverageNeon"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AverageNeon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Neon4Real"/>
 
 ![](https://komarev.com/ghpvc/?username=cmxn3on&label=PROFILE+VIEWS)
 </a>
