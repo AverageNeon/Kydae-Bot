@@ -15,11 +15,11 @@
 <br>
 
 
-- Average neon (**cmxn3on**)
+-  neon (**Eldho C.T**)
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 22 years old and I live in the uae. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+I am a part time developer & a just a chill guy who likes to ride bikes enjoy weeknds etc etc...oh about my information right?... I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 23 years old and I live in kerala. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-5/760855112859648041.png" alt="contact mee">
